@@ -89,7 +89,7 @@ ${<Table>
   </Row>
   </Table>}
 
-## A Note in Trinary
+## A Note on Trinary
 
 In this documentation you will often hear the phrase trinary-based which 
 is a reference to the unique data structure being utilized in IOTA. 
